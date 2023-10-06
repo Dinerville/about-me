@@ -14,7 +14,7 @@ I'm an enthusiastic Full Stack Software Engineer with 7+ years of experience and
 **Package**: CICD tools: Jenkins, GOCD, Github actions, Gitlab CI, Teamcity.   
 
 **Release**: AWS EC2, Kubernetes, AWS Cloudfront, Cloudflare workers, Cloudflare Pages.
-Regestries: NPM Registry, Github Registry, Nuget registry, DockerHub, AWS ECR  
+Registries: NPM Registry, Github Registry, Nuget registry, DockerHub, AWS ECR  
 
 **Monitor**: Splunk, Grafana, Prometheus, PagerDuty  
 
